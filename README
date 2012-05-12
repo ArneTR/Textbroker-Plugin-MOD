@@ -1,1 +1,9 @@
 This plugin modification contains some tweaks, so you can apply custom filters and you can see the SEO-Keywords when accepting posts
+
+------------------------------
+Important:
+
+It is very important, that if you clone this repository OR if you upload it via FTP the resulting directory in the /wp-content/plugins must be named "Textbroker-WordPress-Plugin"
+
+The native Textbroker-Plugin on which this mod is based does not support relative paths.
+
